@@ -1,6 +1,6 @@
 {
   "name": "node-code-lab",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "codelap to practice the creation of node projects an execute Js files",
   "main": "index.js",
   "type": "module",
